@@ -1,0 +1,31 @@
+header {
+    font-size: 120PX;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-Shadow: 10px 10px 15px greenyellow
+}
+
+body {
+    margin: 20;
+    padding: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(milky_way.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 120PX;
+    font-weight: bolder;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-Shadow: 10px 10px 15px greenyellow
+}
